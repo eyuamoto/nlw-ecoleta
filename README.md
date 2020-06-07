@@ -11,8 +11,8 @@ The development stack used was:
 
 ## Requirements
 
-* [Node](https://nodejs.org/) (Currently using v12.16.1)
-* [Node Package Manager](https://www.npmjs.com/) (Currently using v6.13.4)
+* [Node](https://nodejs.org/) (Currently using v12.18.0)
+* [Node Package Manager](https://www.npmjs.com/) (Currently using v6.14.4)
 
 We strongly recommend that you use [NVM](https://github.com/nvm-sh/nvm) to easily switch between NodeJS versions, alternatively, you can use docker.
 
